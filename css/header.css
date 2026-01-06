@@ -8,12 +8,11 @@ body {
 }
 
 .header {
-    position: fixed;
     display: flex;
     width: 100%;
-    z-index: 1000;
     padding: 40px 100px;
     background-color: #FFFFFF;
+    /* home.html에서만 background-color이 투명색, 나머지 페이지에서는 흰색 !! */
 }
 
 .header-container {
