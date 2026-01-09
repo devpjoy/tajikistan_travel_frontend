@@ -259,6 +259,7 @@
     margin: 0;
     padding: 0;
     text-decoration: none;
+    background-color: red;
 }
 
 .category-image {
@@ -266,6 +267,9 @@
     height: 100%;
     display: block;
     object-fit: cover;
+    display: block;
+    margin: 0;
+    padding: 0;
     border-radius: 28px;
 }
 
@@ -279,15 +283,15 @@
 .category-name {
     margin: 0;
     font-family: 'Pretendard', sans-serif;
-    font-size: 28px;
+    font-size: 24px;
     font-weight: 600;
     color: #1B1B1B;
 }
 
 .category-desc {
-    margin: 6px 0 0;
+    margin: 0;
     font-family: 'Pretendard', sans-serif;
-    font-size: 18px;
+    font-size: 16px;
     font-weight: 300;
     color: #1B1B1B;
 }
