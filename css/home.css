@@ -260,6 +260,7 @@
     padding: 0;
     text-decoration: none;
     background-color: red;
+    aspect-ratio: 27 / 14;
 }
 
 .category-image {
